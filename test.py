@@ -45,7 +45,7 @@ def parse_args():
         '(only applicable to non-distributed testing)')
     parser.add_argument('--show', action='store_true', help='show results')
     parser.add_argument(
-        '--show-dir', help='directory where painted images will be saved', default='/home/ubuntu/Lxy/CPL/output')
+        '--show-dir', help='directory where painted images will be saved', default='')
     parser.add_argument(
         '--show-score-thr',
         type=float,
