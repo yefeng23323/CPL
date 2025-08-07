@@ -1,4 +1,11 @@
+# Conditional Prototype Learning for Few-Shot Object Detection
+
+
+
+[🖼️ Poster](poster.pdf)
+
 ## Introduction
+
 ![cpl](architecture.png)
 
 ## Quick Start
